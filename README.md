@@ -1,8 +1,12 @@
-- 👋 Hi, @MagsoudAhmadiAnvar
+- 👋 Hi, @MaghsoudAhmadiAnvar
 - 👀 Interested in ‌Business and Engineering
 - 🌱 Currently learning ...
 - 💞️ Looking to ...
-- 📫 How to reach me https://www.instagram.com/MagsoudAhmadiAnvar, https://t.me/MagsoudAhmadiAnvarBiz, https://www.linkedin.com/in/MagsoudAhmadiAnvarOfficial
+- 📫 How to reach me
+- https://t.me/MaghsoudMagsoudProfile
+- https://www.linkedin.com/in/MaghsoudAhmadiAnvar
+- https://x.com/MaghsoudAhmadiA
+- https://www.instagram.com/MaghsoudOfficial
 
 <!---
 MagsoudAhmadiAnvar/MagsoudAhmadiAnvar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
